@@ -1,0 +1,2 @@
+# Velomobile
+"Create a pedelec velomobile as an alternative to cars for local transportation. It shall: Meet legal requirements, Have certain load capacity for shopping, Be usable also for people with some reduced mobility, can they use a bicycle they should be able to use this, Provide protection from weather and wind, and provide better aerodynamics than a bicycle, Have shorter wheelbase and lower weight than the velomobiles currently on the market
